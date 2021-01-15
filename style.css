@@ -1,11 +1,7 @@
 body{
     text-align: center;
-    }
+}
     header{
-        background-color: black;
-        color: burlywood;
-        
-}
-a{
-    align-items: center;
-}
+        background-color: powderblue;
+        color: rgb(201, 178, 149);
+        }
