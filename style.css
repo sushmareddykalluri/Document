@@ -1,7 +1,36 @@
 body{
     text-align: center;
+    
 }
-    header{
-        background-color: powderblue;
-        color: rgb(201, 178, 149);
-        }
+body header{
+    line-height: 2;
+    background-color: black;
+    color: #fff;
+    
+    
+}
+header a{
+    color: #fff;
+    text-decoration: none;
+    
+    
+}
+div{
+
+    background-color:black;
+    color: #fff;
+    color: blck;
+    line-height: 2;
+}
+body.pic{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    color: white;
+}
+body.bgpic{
+background-repeat: no-repeat;
+background-size: cover;
+}
+    
